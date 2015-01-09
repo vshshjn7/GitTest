@@ -4,4 +4,4 @@ Testing Git
 Description
 ====
 
-This is a repo for testing git
+This is a test repo for testing git
